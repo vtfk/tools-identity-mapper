@@ -1,7 +1,7 @@
 {
   "name": "tools-identity-mapper",
   "description": "Microservice for mapping identities across internal services",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "license": "MIT",
   "private": true,
   "author": {
