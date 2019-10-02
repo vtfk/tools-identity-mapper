@@ -23,6 +23,12 @@ MONGODB_COLLECTION=identity
 MONGODB_NAME=minelev
 ```
 
+Find duplicates
+
+```
+$ node utils/find-duplicates.js <employees|students>
+```
+
 Run the generate scripts
 
 ```
